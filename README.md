@@ -68,10 +68,10 @@ gr.close_all()
 demo.launch(share=True, server_port=7868)
 ```
 ### OUTPUT:
-![image alt](https://github.com/Ragasusanth/genai-chat-llm-gradio/blob/fdd4e8c53cf1e5f9b0d3416c4bbfbc5a67dbaf46/Screenshot%20(479).png)
-![image alt](https://github.com/Ragasusanth/genai-chat-llm-gradio/blob/fdd4e8c53cf1e5f9b0d3416c4bbfbc5a67dbaf46/Screenshot%20(478).png)
-![image alt](https://github.com/Ragasusanth/genai-chat-llm-gradio/blob/fdd4e8c53cf1e5f9b0d3416c4bbfbc5a67dbaf46/Screenshot%20(480).png)
-![image alt](https://github.com/Ragasusanth/genai-chat-llm-gradio/blob/fdd4e8c53cf1e5f9b0d3416c4bbfbc5a67dbaf46/Screenshot%20(481).png)
+![image alt](https://github.com/Ragasusanth/genai-chat-llm-gradio/blob/2097ae09893b52c8cec353fb3b911dfb73b092d7/Screenshot%20(479).png)
+![image alt](https://github.com/Ragasusanth/genai-chat-llm-gradio/blob/2097ae09893b52c8cec353fb3b911dfb73b092d7/Screenshot%20(478).png)
+![image alt](https://github.com/Ragasusanth/genai-chat-llm-gradio/blob/2097ae09893b52c8cec353fb3b911dfb73b092d7/Screenshot%20(480).png)
+![image alt](https://github.com/Ragasusanth/genai-chat-llm-gradio/blob/2097ae09893b52c8cec353fb3b911dfb73b092d7/Screenshot%20(481).png)
 
 ### RESULT:
 The application successfully enables users to interact with a large language model through a Gradio Blocks interface, providing real-time conversational responses and demonstrating an effective chat-based AI system.
